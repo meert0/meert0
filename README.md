@@ -1,16 +1,16 @@
-## Hi there 👋
+# Just a simple, authentic guy who likes to create aesthetic designs.  
+No filters. No ego. Just real work.
 
-<!--
-**meert0/meert0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’ve been designing since childhood — over 12 years now — and have touched nearly every part of the digital design stack since.
 
-Here are some ideas to get you started:
+UI/UX is where I’m strongest — but I’ve worked across motion, interaction, 3D, prototyping, research, writing, dev, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time, I’m actively leveling up my skills with **TypeScript**, **React**, **Next.js**, and **TailwindCSS**.
+
+---
+
+### Open for new people
+
+- [Website](https://www.devlified.com)
+- [LinkedIn](https://www.linkedin.com/in/mert-ao/)
+- [X/Twitter](https://x.com/meert0_)
